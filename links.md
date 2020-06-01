@@ -1,12 +1,11 @@
 # Links de ayuda y/o consulta
 
-## Índice
-1. [Markdown Cheat Sheet](#id1)
-2. [Grid Layout](#id2)
-3. [Metodología BEM](#id3)
-4. [Apps imprescindibles](#id4)
-5. [Recursos](#id5)
+| Índice |    |    |
+| -- | -- | -- |
+| [Markdown Cheat Sheet](#id1) | [Grid Layout](#id2) | [Metodología BEM](#id3) |
+| [Apps imprescindibles](#id4) | [Recursos](#id5) |  |  |
 
+***
 
 ### Markdown Cheat Sheet<a name="id1"></a>
 * [Cheat Sheet](https://joedicastro.com/pages/markdown.html)
