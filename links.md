@@ -1,8 +1,8 @@
 # Links de ayuda y/o consulta
 
 ## Índice
-[Markdown Cheat Sheet](#id1)
-[Grid Layout](#id2)
+1. [Markdown Cheat Sheet](#id1)
+2. [Grid Layout](#id2)
 
 ### Markdown Cheat Sheet<a name="id1"></a>
 * [Cheat Sheet](https://joedicastro.com/pages/markdown.html)
