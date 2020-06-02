@@ -3,7 +3,7 @@
 | Índice |    |    |
 | -- | -- | -- |
 | [Markdown Cheat Sheet](#id1) | [Grid Layout](#id2) | [Metodología BEM](#id3) |
-| [Recursos](#id4) |    |  |  |
+| [Recursos](#id4) |  [Blogs](#id5)  |  |  |
 
 ***
 
@@ -21,3 +21,6 @@
 
 ### Recursos<a name="id4"></a>
 * [Send GB](https://www.sendgb.com)
+
+### Blogs<a name="id5"></a>
+* [UI from Mars](https://www.uifrommars.com/blog/)
