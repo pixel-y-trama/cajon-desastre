@@ -27,7 +27,7 @@
 ## Configurar Github
 
 <details>
-<summary>Algunos comandos que se usan (por cristinafsanz)</summary>
+<summary>Algunos comandos que se usan (por cristinafsanz). Más información en https://github.com/cristinafsanz/mastering-github</summary>
 
 ```
 Operaciones locales:
