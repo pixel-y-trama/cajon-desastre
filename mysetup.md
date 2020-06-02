@@ -21,12 +21,13 @@
 
 ## Links
 * [Links de ayuda y/o consulta](https://github.com/pixel-y-trama/cajon-desastre/blob/master/links.md#links-de-ayuda-yo-consulta)
+* [Mucha información (por IgnaciodeNuevo)](https://github.com/IgnaciodeNuevo/personal-goals)
 
 
 ## Configurar Github
 
 <details>
-<summary>Algunos comandos que se usan</summary>
+<summary>Algunos comandos que se usan (por cristinafsanz)</summary>
 
 ```
 Operaciones locales:
