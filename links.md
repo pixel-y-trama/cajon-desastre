@@ -9,7 +9,7 @@
 
 ### Markdown<a name="id1"></a>
 * [Cheat Sheet](https://joedicastro.com/pages/markdown.html)
-* (Sintaxis Markdown)[https://markdown.es/sintaxis-markdown/]
+* [Sintaxis Markdown](https://markdown.es/sintaxis-markdown/)
 
 ### Grid Layout<a name="id2"></a>
 * [Grid to flex](https://www.gridtoflex.com)
