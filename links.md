@@ -3,7 +3,7 @@
 | Índice |    |    |
 | -- | -- | -- |
 | [Markdown Cheat Sheet](#id1) | [Grid Layout](#id2) | [Metodología BEM](#id3) |
-| [Apps imprescindibles](#id4) | [Recursos](#id5) |  |  |
+| [Recursos](#id4) |    |  |  |
 
 ***
 
@@ -19,18 +19,5 @@
 ### Metodología BEM<a name="id3"></a>
 * [¿Qué es?](https://blog.interactius.com/metodolog%C3%ADa-css-block-element-modifier-bem-f26e69d1de3)
 
-### Apps imprescindibles<a name="id4"></a>
-* [Sublime (Package Control y LiveReload)](https://www.sublimetext.com)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Koala App(compilador de Sass y Less gratuito)](http://koala-app.com)
-* [Prepros (compilador de Sass y Less)](https://prepros.io)
-* [SiteSucker (para copiar sitios web completos)](https://ricks-apps.com/osx/sitesucker/index.html)
-* Suite Adobe (Photoshop, Illustrator, Acrobat, Indesign)
-* [Google Web Designer](https://webdesigner.withgoogle.com)
-* Sketch
-* Microsoft Word
-* [Spotify](https://www.spotify.com/es/)
-* [FontBase](https://fontba.se/)
-
-### Recursos<a name="id5"></a>
+### Recursos<a name="id4"></a>
 * [Send GB](https://www.sendgb.com)
